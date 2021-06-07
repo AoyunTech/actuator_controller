@@ -1,0 +1,3 @@
+
+$ rosrun actuator_controller talker
+$ rosrun actuator_controller listener
